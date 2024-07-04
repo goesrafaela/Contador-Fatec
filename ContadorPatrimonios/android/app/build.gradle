@@ -83,7 +83,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.contadorpatrimonios"
+    namespace 'com.goesrafaela.ContadorPatrimonios'
     defaultConfig {
         applicationId 'com.goesrafaela.ContadorPatrimonios'
         minSdkVersion rootProject.ext.minSdkVersion
